@@ -26,7 +26,7 @@ This repsitory contains my solutions to the course exercises provided by courser
  
 ## Course 5 - Sequence Models
  - Building a recurrent neural network - step by step
- - Dinosaur Island - Character-Level Language Modeling
+ - [Dinosaur Island - Character-Level Language Modeling](https://github.com/animesh2998/deeplearning.ai/blob/master/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
  - Jazz improvisation with LSTM
  - Operations on word vectors - Debiasing
  - Emojify
