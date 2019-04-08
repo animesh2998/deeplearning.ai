@@ -1,7 +1,6 @@
-# deeplearning.ai
+# deeplearning.ai - notebooks
 This repsitory contains my solutions to the course exercises provided by coursera on the deeplearnin.ai specialization by Andrew NG
 
-# notebooks
 
 ## Course 1 - Neural networks and deep learning
  - Logistic Regression with a Neural Network mindset
